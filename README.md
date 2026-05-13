@@ -92,7 +92,7 @@ FAERS_Amputation_Analysis/
 
 ### 1. Clone the Repository
 ​```bash
-git clone https://github.com/yourusername/FAERS_Amputation_Analysis.git
+git clone https://github.com/Bayan-110/FAERS_Amputation_Analysis.git
 cd FAERS_Amputation_Analysis
 ​```
 
